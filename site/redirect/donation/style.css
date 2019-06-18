@@ -1,0 +1,44 @@
+a {
+	color: black;
+}
+
+body {
+	background-image: url("../../../resources/img/backgroundvanilla1.png");
+	background-color: #999999;
+}
+
+.real{
+	background-color: #FFFFFF;
+	border: 1px solid black;
+	
+	border-radius: 100px;
+	box-shadow: 10px 10px 15px black;
+	width:40%;
+	font-size: 20px;
+    top: 20%;
+	left: 50%;
+	position: absolute;
+	margin-left: -20%;
+}
+
+.real:hover {
+	border: 1.5px solid #FF2400;
+}
+
+.steam{
+	background-color: #FFFFFF;
+	border: 1px solid black;
+	
+	border-radius: 100px;
+	box-shadow: 10px 10px 15px black;
+	width:40%;
+	font-size: 20px;
+	top: 60%;
+	left: 50%;
+	position: absolute;
+	margin-left: -20%;
+}
+
+.steam:hover {
+	border: 1.5px solid #FF2400;
+}
